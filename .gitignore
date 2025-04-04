@@ -1,0 +1,37 @@
+# Ignorar archivos ZIP
+*.zip
+
+# Ignorar la carpeta de node_modules
+node_modules/
+
+# Ignorar archivos de configuración de IDE
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos de configuración de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de configuración de Visual Studio
+*.vscode/
+
+# Ignorar archivos de configuración de JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignorar archivos de configuración de Eclipse
+*.classpath
+*.project
+*.settings/
+*.metadata/
+*.eclipse
+
+# Ignorar archivos de configuración de NetBeans
+*.nb-configuration.xml
+
+
+
+
+
+
